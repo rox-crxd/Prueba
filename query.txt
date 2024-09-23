@@ -1,0 +1,22 @@
+create database prueba
+GO
+
+use prueba
+GO
+
+CREATE TABLE prueba
+(
+    codigo int,
+    nombre varchar(10)
+)
+go
+
+insert into prueba (codigo, nombre) values (1, 'Erick')
+GO
+
+CREATE OR ALTER PROCEDURE usp_prueba
+as 
+BEGIN 
+select codigo, nombre from prueba
+END 
+go

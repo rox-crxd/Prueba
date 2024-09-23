@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\III CICLO\POGRAMACION ORIENTADA A OBJETOS I\Proyectos_POOI\POOI_Sesion04\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\user\Desktop\III CICLO\POGRAMACION ORIENTADA A OBJETOS I\Proyectos_POOI\POOI_Sesion04\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\user\Desktop\III CICLO\POGRAMACION ORIENTADA A OBJETOS I\Proyectos_POOI\POOI_Sesion04\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\user\Desktop\III CICLO\POGRAMACION ORIENTADA A OBJETOS I\Proyectos_POOI\POOI_Sesion04\Prueba1\obj\Debug\Prueba1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\III CICLO\POGRAMACION ORIENTADA A OBJETOS I\Proyectos_POOI\POOI_Sesion04\Prueba1\obj\Debug\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\III CICLO\POGRAMACION ORIENTADA A OBJETOS I\Proyectos_POOI\POOI_Sesion04\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\user\Desktop\III CICLO\POGRAMACION ORIENTADA A OBJETOS I\Proyectos_POOI\POOI_Sesion04\Prueba1\obj\Debug\Prueba1.pdb
